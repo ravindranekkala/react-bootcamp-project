@@ -1,4 +1,5 @@
- import React from "react";
+//host link --> https://ravindranekkala.github.io/react-bootcamp-project/
+import React from "react";
 import Navbar from './components/Navbar/Navbar'
 import Home from "./components/Home/Home";
 import Search from "./components/Search/search";
